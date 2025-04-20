@@ -211,6 +211,10 @@ section{
 @keyframes words{
     0%,20%{
         content: "Web Developer";
+        /* background-color: #62036ca1;
+        border: 2px solid white;
+        border-radius: 10px; */
+        
     }
     21%,40%{
         content: "Frontend Developer";
